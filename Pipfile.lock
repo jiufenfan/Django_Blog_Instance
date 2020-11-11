@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "eb0275c729e504f6ac33f0bc361a6a61a704f0f24a692028a0b43f87fdb47a73"
+            "sha256": "e9d19ebba1291bcd97f274e40cf4488dab4b3aa2ee5bdc62a9c2411596886c8d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -24,6 +24,14 @@
             "index": "pypi",
             "version": "==2.2.3"
         },
+        "gunicorn": {
+            "hashes": [
+                "sha256:1904bb2b8a43658807108d59c3f3d56c2b6121a701161de0ddf9ad140073c626",
+                "sha256:cd4a810dd51bf497552cf3f863b575dabd73d6ad6a91075b65936b151cbf4f9c"
+            ],
+            "index": "pypi",
+            "version": "==20.0.4"
+        },
         "importlib-metadata": {
             "hashes": [
                 "sha256:77a540690e24b0305878c37ffd421785a6f7e53c8b5720d211b211de8d0e95da",
@@ -39,6 +47,13 @@
             ],
             "index": "pypi",
             "version": "==3.3.3"
+        },
+        "mysql": {
+            "hashes": [
+                "sha256:55e66b5e7b3823b1da5fb2a063e95a628fb850b2a0b76bdcd884faac5d2daa7d"
+            ],
+            "index": "pypi",
+            "version": "==0.0.2"
         },
         "mysqlclient": {
             "hashes": [
